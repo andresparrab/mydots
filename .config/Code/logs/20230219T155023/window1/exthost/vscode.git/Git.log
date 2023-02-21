@@ -1,0 +1,33 @@
+2023-02-19 15:50:32.024 [info] Log level: Info
+2023-02-19 15:50:32.024 [info] Validating found git in: "git"
+2023-02-19 15:50:32.024 [info] Using git "2.39.2" from "git"
+2023-02-19 15:50:32.025 [info] > git rev-parse --show-toplevel [19ms]
+2023-02-19 15:50:32.025 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-02-19 15:51:31.635 [info] Log level: Info
+2023-02-19 15:51:31.635 [info] Validating found git in: "git"
+2023-02-19 15:51:31.635 [info] Using git "2.39.2" from "git"
+2023-02-19 15:51:31.649 [info] > git rev-parse --show-toplevel [33ms]
+2023-02-19 15:51:31.708 [info] > git rev-parse --git-dir --git-common-dir [29ms]
+2023-02-19 15:51:31.767 [info] Open repository: /home/loco/Development/EC_CS_InventorySystem
+2023-02-19 15:51:31.886 [info] > git rev-parse --show-toplevel [92ms]
+2023-02-19 15:51:31.944 [info] > git rev-parse --show-toplevel [35ms]
+2023-02-19 15:51:31.971 [info] > git config --get commit.template [79ms]
+2023-02-19 15:51:31.993 [info] > git rev-parse --show-toplevel [31ms]
+2023-02-19 15:51:32.054 [info] > git rev-parse --show-toplevel [43ms]
+2023-02-19 15:51:32.089 [info] > git rev-parse --show-toplevel [25ms]
+2023-02-19 15:51:32.091 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2023-02-19 15:51:32.220 [info] > git status -z -uall [92ms]
+2023-02-19 15:51:32.221 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [68ms]
+2023-02-19 15:51:32.304 [info] > git config --get commit.template [28ms]
+2023-02-19 15:51:32.394 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2023-02-19 15:51:32.452 [info] > git status -z -uall [45ms]
+2023-02-19 15:51:32.453 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2023-02-19 15:51:32.472 [info] > git fetch [706ms]
+2023-02-19 15:51:32.502 [info] > git check-ignore -v -z --stdin [54ms]
+2023-02-19 15:51:32.596 [info] > git config --get commit.template [94ms]
+2023-02-19 15:51:32.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2023-02-19 15:51:32.711 [info] > git status -z -uall [38ms]
+2023-02-19 15:51:32.726 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2023-02-19 15:51:40.757 [info] > git check-ignore -v -z --stdin [2ms]
+2023-02-19 15:51:43.092 [info] > git check-ignore -v -z --stdin [2ms]

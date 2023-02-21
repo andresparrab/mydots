@@ -1,0 +1,51 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/InventorySystem/InventorySystem/bin/Debug/net7.0/API.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/InventorySystem/InventorySystem/",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "WEB",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Groceries/API/bin/Debug/net7.0/API.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Groceries/API",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ],
+    ,
+    "compounds": [
+        {
+            "name": "Debug web and API Dev Mode",
+            "configurations": [
+                "API",
+                "WEB"
+            ]
+        }
+    ]
+}

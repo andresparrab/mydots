@@ -1,0 +1,9 @@
+profile {
+	output eDP-1 disable
+  output "XXX SWEDX DISPLAY 0x00000DB0" mode 1920x1080@60Hz position 0,0 scale 1
+  output "BNQ GW2780 H7H0012701Q" mode 1920x1080@60Hz position 1920,0 scale 1
+}
+
+profile {
+	output eDP-1 enable scale 1
+}

@@ -1,0 +1,76 @@
+2023-02-18 21:08:21.716 [info] update#setState idle
+2023-02-18 21:08:23.946 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:08:23.977 [info] [UtilityProcess id: 1, type: extensionHost, pid: 108701]: successfully created
+2023-02-18 21:08:51.724 [info] update#setState checking for updates
+2023-02-18 21:08:51.782 [info] update#setState idle
+2023-02-18 21:10:43.212 [info] [UtilityProcess id: 1, type: extensionHost, pid: 108701]: received exit event with code 0
+2023-02-18 21:10:43.212 [info] Extension host with pid 108701 exited with code: 0, signal: unknown.
+2023-02-18 21:10:44.878 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:10:44.896 [info] [UtilityProcess id: 2, type: extensionHost, pid: 110496]: successfully created
+2023-02-18 21:11:54.601 [info] [UtilityProcess id: 2, type: extensionHost, pid: 110496]: received exit event with code 0
+2023-02-18 21:11:54.601 [info] Extension host with pid 110496 exited with code: 0, signal: unknown.
+2023-02-18 21:11:56.305 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:11:56.317 [info] [UtilityProcess id: 3, type: extensionHost, pid: 111309]: successfully created
+2023-02-18 21:12:14.223 [info] [UtilityProcess id: 3, type: extensionHost, pid: 111309]: received exit event with code 0
+2023-02-18 21:12:14.224 [info] Extension host with pid 111309 exited with code: 0, signal: unknown.
+2023-02-18 21:12:15.785 [info] [UtilityProcess id: 4, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:12:15.796 [info] [UtilityProcess id: 4, type: extensionHost, pid: 111594]: successfully created
+2023-02-18 21:12:31.546 [info] [UtilityProcess id: 4, type: extensionHost, pid: 111594]: received exit event with code 0
+2023-02-18 21:12:31.547 [info] Extension host with pid 111594 exited with code: 0, signal: unknown.
+2023-02-18 21:12:33.461 [info] [UtilityProcess id: 5, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:12:33.473 [info] [UtilityProcess id: 5, type: extensionHost, pid: 111826]: successfully created
+2023-02-18 21:12:41.091 [info] [UtilityProcess id: 5, type: extensionHost, pid: 111826]: received exit event with code 0
+2023-02-18 21:12:41.092 [info] Extension host with pid 111826 exited with code: 0, signal: unknown.
+2023-02-18 21:12:42.482 [info] [UtilityProcess id: 6, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:12:42.494 [info] [UtilityProcess id: 6, type: extensionHost, pid: 111973]: successfully created
+2023-02-18 21:13:16.558 [info] [UtilityProcess id: 6, type: extensionHost, pid: 111973]: received exit event with code 0
+2023-02-18 21:13:16.558 [info] Extension host with pid 111973 exited with code: 0, signal: unknown.
+2023-02-18 21:13:18.130 [info] [UtilityProcess id: 7, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:13:18.142 [info] [UtilityProcess id: 7, type: extensionHost, pid: 112421]: successfully created
+2023-02-18 21:14:02.213 [info] [UtilityProcess id: 7, type: extensionHost, pid: 112421]: received exit event with code 0
+2023-02-18 21:14:02.213 [info] Extension host with pid 112421 exited with code: 0, signal: unknown.
+2023-02-18 21:14:03.736 [info] [UtilityProcess id: 8, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:14:03.749 [info] [UtilityProcess id: 8, type: extensionHost, pid: 112950]: successfully created
+2023-02-18 21:14:31.518 [info] [UtilityProcess id: 8, type: extensionHost, pid: 112950]: received exit event with code 0
+2023-02-18 21:14:31.518 [info] Extension host with pid 112950 exited with code: 0, signal: unknown.
+2023-02-18 21:14:33.255 [info] [UtilityProcess id: 9, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:14:33.268 [info] [UtilityProcess id: 9, type: extensionHost, pid: 113323]: successfully created
+2023-02-18 21:14:41.395 [info] [UtilityProcess id: 9, type: extensionHost, pid: 113323]: received exit event with code 0
+2023-02-18 21:14:41.406 [info] Extension host with pid 113323 exited with code: 0, signal: unknown.
+2023-02-18 21:14:42.819 [info] [UtilityProcess id: 10, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:14:42.831 [info] [UtilityProcess id: 10, type: extensionHost, pid: 113474]: successfully created
+2023-02-18 21:15:12.367 [info] [UtilityProcess id: 10, type: extensionHost, pid: 113474]: received exit event with code 0
+2023-02-18 21:15:12.368 [info] Extension host with pid 113474 exited with code: 0, signal: unknown.
+2023-02-18 21:15:13.796 [info] [UtilityProcess id: 11, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:15:13.811 [info] [UtilityProcess id: 11, type: extensionHost, pid: 113867]: successfully created
+2023-02-18 21:15:32.695 [info] [UtilityProcess id: 11, type: extensionHost, pid: 113867]: received exit event with code 0
+2023-02-18 21:15:32.699 [info] Extension host with pid 113867 exited with code: 0, signal: unknown.
+2023-02-18 21:15:34.335 [info] [UtilityProcess id: 12, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:15:34.346 [info] [UtilityProcess id: 12, type: extensionHost, pid: 114131]: successfully created
+2023-02-18 21:15:44.395 [info] [UtilityProcess id: 12, type: extensionHost, pid: 114131]: received exit event with code 0
+2023-02-18 21:15:44.395 [info] Extension host with pid 114131 exited with code: 0, signal: unknown.
+2023-02-18 21:15:45.793 [info] [UtilityProcess id: 13, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:15:45.812 [info] [UtilityProcess id: 13, type: extensionHost, pid: 114378]: successfully created
+2023-02-18 21:17:18.174 [info] [UtilityProcess id: 13, type: extensionHost, pid: 114378]: received exit event with code 0
+2023-02-18 21:17:18.174 [info] Extension host with pid 114378 exited with code: 0, signal: unknown.
+2023-02-18 21:17:19.980 [info] [UtilityProcess id: 14, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:17:19.993 [info] [UtilityProcess id: 14, type: extensionHost, pid: 115442]: successfully created
+2023-02-18 21:18:06.449 [info] [UtilityProcess id: 14, type: extensionHost, pid: 115442]: received exit event with code 0
+2023-02-18 21:18:06.451 [info] Extension host with pid 115442 exited with code: 0, signal: unknown.
+2023-02-18 21:18:08.467 [info] [UtilityProcess id: 15, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:18:08.480 [info] [UtilityProcess id: 15, type: extensionHost, pid: 116015]: successfully created
+2023-02-18 21:18:47.367 [info] [UtilityProcess id: 15, type: extensionHost, pid: 116015]: received exit event with code 0
+2023-02-18 21:18:47.367 [info] Extension host with pid 116015 exited with code: 0, signal: unknown.
+2023-02-18 21:18:49.174 [info] [UtilityProcess id: 16, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:18:49.187 [info] [UtilityProcess id: 16, type: extensionHost, pid: 116490]: successfully created
+2023-02-18 21:26:32.943 [info] [UtilityProcess id: 16, type: extensionHost, pid: 116490]: received exit event with code 0
+2023-02-18 21:26:32.949 [info] Extension host with pid 116490 exited with code: 0, signal: unknown.
+2023-02-18 21:26:35.112 [info] [UtilityProcess id: 17, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:26:35.125 [info] [UtilityProcess id: 17, type: extensionHost, pid: 121655]: successfully created
+2023-02-18 21:26:51.908 [info] [UtilityProcess id: 17, type: extensionHost, pid: 121655]: received exit event with code 0
+2023-02-18 21:26:51.908 [info] Extension host with pid 121655 exited with code: 0, signal: unknown.
+2023-02-18 21:26:53.252 [info] [UtilityProcess id: 18, type: extensionHost, pid: <none>]: creating new...
+2023-02-18 21:26:53.265 [info] [UtilityProcess id: 18, type: extensionHost, pid: 121902]: successfully created
+2023-02-18 21:27:22.095 [info] [UtilityProcess id: 18, type: extensionHost, pid: 121902]: waiting to exit...
+2023-02-18 21:27:22.100 [info] [UtilityProcess id: 18, type: extensionHost, pid: 121902]: received exit event with code 0
+2023-02-18 21:27:22.100 [info] Extension host with pid 121902 exited with code: 0, signal: unknown.
